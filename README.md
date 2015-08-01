@@ -1,0 +1,2 @@
+# sVote
+Plugin na głosowanie!
